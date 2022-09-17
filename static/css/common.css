@@ -133,10 +133,10 @@ input:-webkit-autofill {
   user-select: auto;
 }
 .footer {
-  position: absolute;
-  bottom: 20px;
+  margin-top: 50px;
+  margin-left: 12%;
+  margin-bottom: 20px;
   text-align: center;
-  margin-left: 15%;
   font-size: 14px;
 }
 .footer a {
