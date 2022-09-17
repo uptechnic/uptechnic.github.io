@@ -8,13 +8,16 @@ author: 王传军
 footerText: 'Copyright@<a href="mailto:wcj@zju.edu.cn">王传军</a>'
 
 # 这些不要动
-permalink: :year/:month/:day/:title.html
+permalink: blog/:year/:month/:day/:title.html
 kramdown:
   auto_ids: true
   input: GFM
   syntax_highlighter: rouge
   parse_block_html: true
 exclude: ['README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.lock', 'blog.sh', '.gitignore']
+
+future: true
+timezone: Asia/Shanghai
 
 # 域名配置
 # baseurl配置,如果网站部署在根目录下的其他目录中，请设置为 /目录名
