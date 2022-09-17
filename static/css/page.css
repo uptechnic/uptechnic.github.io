@@ -25,6 +25,7 @@
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  font-weight: bold;
 }
 .list-post li .title a {
   font-size: 15px;
