@@ -8,7 +8,7 @@ author: 王传军
 footerText: 'Copyright@<a href="mailto:wcj@zju.edu.cn">王传军</a>'
 
 # 这些不要动
-permalink: /posts/:year/:month/:day/:title.html
+permalink: :year/:month/:day/:title.html
 kramdown:
   auto_ids: true
   input: GFM
