@@ -11,9 +11,7 @@
   <div class="post">
     {% if page.toc %}
     <hr style="height:1px;border:none;border-top:1px dashed #044e52;"/>
-    <nav>
       {% include toc.html html=content sanitize=true %}
-    </nav>
     <hr style="height:1px;border:none;border-top:1px dashed #044e52;"/>
     {% endif %}
     {{ content }}
