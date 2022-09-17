@@ -54,11 +54,12 @@ rougify style github > highlighting.css
 
 ```yaml
 ---
-layout: post
-title: 标题
-categories: [分类1, 分类2]
-extMath: true # 是否启用数学公式支持
-toc: true # 是否自动生成目录
+layout: post # required
+title: 标题 # required
+description: 描述 # optional 
+categories: [分类1, 分类2] # optional
+extMath: true # 是optional, 否启用数学公式支持
+toc: true # optional, 是否自动生成目录
 ---
 文章内容，Markdown格式
 ```
