@@ -20,7 +20,7 @@ toc: false
 
 2020年-2021年初，负责 [华为云桌面](https://www.huaweicloud.com/product/workspace.html) 的 HTML5 高性能显示的技术管理工作，预研基于 WebAssembly 技术的 HTML5 客户端。
 
-2021年-2022年初，负责[华为云桌面](https://www.huaweicloud.com/product/workspace.html)的容器桌面云技术管理及研发工作，预研基于系统容器的 Linu桌面管理和显示能力。
+2021年-2022年初，负责[华为云桌面](https://www.huaweicloud.com/product/workspace.html)的容器桌面云技术管理及研发工作，预研基于系统容器的 Linux 桌面管理和显示能力。
 
 2022年3月至今，作为 Huawei Cloud Core Framework 集成框架服务团队的 Service Leader(SL)，带领团队孵化上线 HCC Modeler 统一模型管理产品。
 
